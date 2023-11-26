@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&text=백엔드%20개발자가%20되고싶은%20대학생입니다.&fontSize=30&fontAlign=70&fontColor=F6F6F6&fontAlignY=30&color=gradient&height=165)
 <!--
 **seongmiin00/seongmiin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## SNS
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRlQqQstVtVpSqFcWzgLrglkpBRksxKbvZWqqgtlsNHrvlHSwnRZvGfcmPxNqBjJlRxLFRQ" target="_blank"><img src="https://img.shields.io/badge/cor2580@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+## 사용해 본 것들
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+## 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongmiin00&theme=noctis_minimus&show_icons=true&hide_rank=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
