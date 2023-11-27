@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=백엔드%20개발자가%20되고싶은%20대학생입니다.&fontSize=30&fontAlign=70&fontColor=F6F6F6&fontAlignY=30&color=gradient&height=165)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&text=백엔드%20개발자가%20되고싶은%20대학생입니다.&fontSize=30&fontAlign=70&fontColor=F6F6F6&fontAlignY=30&color=gradient&height=165)-->
 <!--
 **seongmiin00/seongmiin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
