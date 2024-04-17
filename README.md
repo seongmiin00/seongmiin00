@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## SNS
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRlQqQstVtVpSqFcWzgLrglkpBRksxKbvZWqqgtlsNHrvlHSwnRZvGfcmPxNqBjJlRxLFRQ" target="_blank"><img src="https://img.shields.io/badge/cor2580@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=cor2580@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cor2580@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 ## 사용해 본 것들
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
