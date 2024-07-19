@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
 ## 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongmiin00&theme=noctis_minimus&show_icons=true&hide_rank=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
